@@ -6,13 +6,13 @@ padding:8px;
 
 width: 100px;
 border-radius: 10px;
-border: 1px solid green;
-background-color: green;
-color: white;
+border: 1px solid rgba(0,255,0);
+background-color: rgba(0,255,0,0.5);
+color: #2e2f42;
 cursor:pointer;
 
 &:hover{
- background-color: grey;   
+ background-color: rgba(135,206,235,0.5);   
 }
 `
 
